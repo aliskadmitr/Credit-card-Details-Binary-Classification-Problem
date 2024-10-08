@@ -1,5 +1,5 @@
 # Credit-card-Details-Binary-Classification-Problem
-## F1 Score 99% / OverSampling / RNN / LazyClassifier / RandomForestCkassifier
+## F1 Score 99% / OverSampling / LazyClassifier / RandomForestCkassifier
 
 ### Overview
 This project aims to address the Credit Card Details Binary Classification Problem by predicting whether a credit card transaction is fraudulent based on the provided data. The challenge involves using machine learning techniques to achieve high accuracy and performance, ensuring the model can effectively distinguish between fraudulent and non-fraudulent transactions.

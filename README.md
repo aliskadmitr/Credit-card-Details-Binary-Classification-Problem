@@ -37,9 +37,6 @@ Best Performing Model
 The best-performing model was identified as the RandomForestClassifier, achieving an F1 score of 99%. This model was selected for its superior performance in distinguishing between fraudulent and non-fraudulent transactions.
 ---
 
-### Additional Experimentation with RNN
-To explore the potential of advanced neural network architectures, a Recurrent Neural Network (RNN) was implemented. However, it encountered the issue of vanishing gradients, a common problem in training deep neural networks. This phenomenon leads to very small gradients, effectively preventing the model from learning.
-
 
 ### Getting Started
 To reproduce the results or further experiment with the dataset, follow these steps:
